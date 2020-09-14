@@ -1,3 +1,6 @@
+![Deployment](https://github.com/namekinggamerboy/website/workflows/Deployment/badge.svg)
+
+
 # discord.js website
 
 > The website housing documentation for discord.js
