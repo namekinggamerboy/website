@@ -1,4 +1,4 @@
-![Deployment](https://github.com/namekinggamerboy/website/workflows/Deployment/badge.svg)
+![Deployment](https://github.com/namekinggamerboy/website/workflows/Deployment.yml)
 
 
 # discord.js website
